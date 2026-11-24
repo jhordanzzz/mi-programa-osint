@@ -1,4 +1,3 @@
-cat > buildozer.spec <<'EOF'
 [app]
 title = PhoneGene
 package.name = phonegene
@@ -17,4 +16,3 @@ p4a.branch = master
 
 [buildozer]
 log_level = 2
-EOF
